@@ -24,7 +24,7 @@
 
 ### 📊 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofranca41-glitch&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://raw.githubusercontent.com/albertofranca41-glitch/albertofranca41-glitch/main/profile-summary-card-output/default/2-most-commit-language.svg)
 
 ## 📫 Contato
 
