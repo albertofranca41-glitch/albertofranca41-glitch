@@ -25,7 +25,7 @@
 ### 📊 Linguagens Mais Usadas
 
 <p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Gráfico de Linguagens" width="450px" />
+  <img src="./profile-summary-card-output/default/1-most-used-languages.svg" alt="Gráfico de Linguagens" width="450px" />
 </p>
 
 ## 📫 Contato
