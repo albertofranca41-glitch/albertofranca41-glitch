@@ -22,6 +22,12 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Gráfico de Linguagens" width="450px" />
+</p>
+
 ## 📫 Contato
 
 - E-mail: albertofranca41@gmail.com
