@@ -24,9 +24,7 @@
 
 ### 📊 Linguagens Mais Usadas
 
-<p align="center">
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Gráfico de Linguagens" width="450px" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofranca41-glitch&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contato
 
