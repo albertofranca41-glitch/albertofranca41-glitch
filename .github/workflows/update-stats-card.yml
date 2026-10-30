@@ -9,6 +9,10 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-stats-card
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
