@@ -26,9 +26,10 @@
 
 ## GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofranca41-glitch&layout=compact&theme=dracula)
+<p align="center">
+  <img src="./profile/stats.svg" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertofranca41-glitch&amp;layout=compact&amp;theme=dracula" height="195" alt="Top Languages" />
+</p>
 
 ## 📫 Contato
 
