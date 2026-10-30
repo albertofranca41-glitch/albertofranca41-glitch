@@ -26,7 +26,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](./profile-summary-card-output/darcula/3-stats.svg)
+![GitHub Stats](./profile/stats.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertofranca41-glitch&layout=compact&theme=dracula)
 
