@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&card_width=430
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
