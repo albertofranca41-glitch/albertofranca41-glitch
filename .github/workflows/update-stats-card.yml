@@ -35,10 +35,24 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dracula&card_width=430
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=5&theme=dracula&card_width=430
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      - name: Match top languages card height
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("profile/top-langs.svg")
+          svg = path.read_text()
+          old = 'width="430"\n        height="165"\n        viewBox="0 0 430 165"'
+          new = 'width="430"\n        height="195"\n        viewBox="0 0 430 165"\n        preserveAspectRatio="none"'
+          if old not in svg:
+              raise SystemExit("Unexpected top-languages SVG dimensions")
+          path.write_text(svg.replace(old, new, 1))
+          PY
 
       - name: Commit cards
         run: |
