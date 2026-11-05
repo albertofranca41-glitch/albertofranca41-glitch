@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Alberto 👋</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Ol%C3%A1%2C+eu+sou+o+Alberto+%F0%9F%91%8B" alt="Olá, eu sou o Alberto 👋" /></h1>
 
 <p align="center">
   Desenvolvedor back-end com experiência em Liferay, Java e Service Builder,
